@@ -1,0 +1,39 @@
+{
+  "Season 1": {
+    "release_year": 2015,
+    "episodes": [
+      {
+        "title": "Episode 1.1",
+        "description": "Abducted by a Viking warlord after his father is killed in battle, young Uhtred embraces the Northern way of life."
+      },
+      {
+        "title": "Episode 1.2",
+        "description": "Caught between his scheming uncle Ælfric and Viking warlord Ubba, Uhtred goes on the run and seeks out Alfred, the aspiring king."
+      },
+      {
+        "title": "Episode 1.3",
+        "description": "Uhtred aligns himself with the newly crowned Alfred, but his commitment to the nascent king jeopardizes his bond with Brida."
+      },
+      {
+        "title": "Episode 1.4",
+        "description": "Betrayed and falling into hostile hands, Uhtred's Danish brother Ragnar the Young scrambles to save his life."
+      },
+      {
+        "title": "Episode 1.5",
+        "description": "After rescuing Mildrith, Uhtred joins the fierce Battle of Cynuit, defeating a formidable foe, only to have Odda the Younger claim the victory."
+      },
+      {
+        "title": "Episode 1.6",
+        "description": "Uhtred catches the eye of a pagan queen, and his raiders become mercenaries for a Cornish king."
+      },
+      {
+        "title": "Episode 1.7",
+        "description": "Forced to hide in the marshes after Viking invasion, Uhtred and Alfred reconcile, devising a plan to reclaim the kingdom."
+      },
+      {
+        "title": "Episode 1.8",
+        "description": "Summoning Saxon forces to rally against the Vikings in Wessex, Uhtred and Alfred prepare for a decisive battle, but treachery awaits."
+      }
+    ]
+  }
+}
