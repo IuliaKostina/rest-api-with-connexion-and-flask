@@ -1,0 +1,31 @@
+openapi: 3.0.0
+info:
+  title: "The Last Kingdom Flask REST API"
+  description: "An API about The Last Kingdom Series"
+  version: "1.0.0"
+
+servers:
+  - url: "/api"
+
+paths:
+  /seasons:
+    get:
+      summary: Returns the list of all seasons
+      operationId: seasons.get_seasons
+      responses:
+        '200':
+          description: "Successfully read seasons list"
+  /seasons/{id}:
+    get:
+      summary: Return information about a specific season
+      operationId: seasons.get_season
+      parameters:
+        - in: path
+          name: id
+          required: true
+          schema:
+            type: integer
+            minimum: 1
+      responses:
+        '200':
+          description: "Successfully read season"
